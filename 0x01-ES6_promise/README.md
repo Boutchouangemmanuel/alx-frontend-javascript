@@ -72,4 +72,5 @@ createUser returns a response with the format
   firstName: 'Guillaume',
   lastName: 'Salva',
 }
+ALX projects
 ```
