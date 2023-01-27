@@ -44,3 +44,4 @@ in your project directory:
     - Click to show/hide file contents
 ## and…
 Don’t forget to run $ npm install when you have the package.json
+Create README.md
